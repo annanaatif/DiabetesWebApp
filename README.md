@@ -1,2 +1,2 @@
 # DiabetesWebApp
-Project under College Professor
+Project under College Professor (Mentor)
